@@ -1,2 +1,2 @@
 # Starstruck
-Stricking you with stars!
+Striking you with stars!
