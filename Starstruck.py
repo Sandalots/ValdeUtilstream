@@ -1,7 +1,11 @@
 from art import *
 
+def stringer():
+    stringer = input("Input string to Startstruckt-ify!\n")
+    return stringer
+
 def printStar():
-    tprint("Starstruck!", font="random")
+    tprint(stringer(), font="random")
     
 
 if __name__ == "__main__":
