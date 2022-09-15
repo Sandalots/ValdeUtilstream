@@ -5,9 +5,10 @@ def stringer():
     return stringer
 
 def printStar():
-    tprint(stringer(), font="random")
-    
-if __name__ == "__main__":
-    printStar()
-else:
-    pass
+    return tprint(stringer(), font="random")
+
+class Starstruck:
+    def __init__(self):
+       pass
+    def run(self):
+        printStar()
